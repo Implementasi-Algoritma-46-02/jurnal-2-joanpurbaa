@@ -1,6 +1,6 @@
 public class Jurnal1 {
 
     public static void main(final String[] args) {
-        System.out.println("hello world");
+        System.out.println("Hello World!");
     }
 }
